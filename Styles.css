@@ -100,6 +100,14 @@ label[for="number"]{
   padding: 0px 0 10px 0;
 }
 
+label[for="country"]{
+  padding: 0px 0 10px 0;
+}
+
+label[for="gender"]{
+  padding: 0px 0 10px 0;
+}
+
 .container {
   border-radius: 10px;
   background-color: #1b1b32;
